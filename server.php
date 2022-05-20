@@ -1,10 +1,3 @@
-# assignment
-
-Please add "server.php" file to this assignment because of not including file "server.php" when push my project "assignment" to github
-
-This is conents of "server.php"
-
-
 <?php
 
 /**
